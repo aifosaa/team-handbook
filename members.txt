@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 Student A- Edit1
 
+=======
+Ares Daniel Janagap
+Jessie Marie Villanueva
+Rom Durain
+Aazalyia - forker
+Reign - exp
+Keisha - forker
+>>>>>>> aa0bf72d80ddd01b03c187af25ae382596f0f562
 Sofia-forker
-
-
-
-
